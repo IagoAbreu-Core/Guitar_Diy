@@ -28,7 +28,7 @@ This project documents my **very first experience in woodworking and guitar buil
 | ![Body Prep](./media/img_05.jpeg) | ![Neck Fitting](./media/img_02.jpeg) |
 
 ### 2. Mistakes & Fixes (Headstock Drilling)
-* **Trial & Error:** On my first attempt, the tuner peg hole positions on the headstock were misaligned. 
+* **Trial & Error:** On my first attempt, the tuner peg hole positions on the headstock were misaligned.
 * **Correction:** I filled the incorrect holes with wood dowels/glue, re-sanded the headstock surface, and re-drilled the correct layout before painting.
 
 | Headstock Drill Fixes | Clamping & Finishing |
