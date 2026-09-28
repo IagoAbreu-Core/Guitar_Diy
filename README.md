@@ -1,6 +1,6 @@
 # 🎸 DIY Custom Electric Guitar (First Luthier Project)
 
-![Final Guitar](./guitar_finalizada.jpeg)
+![Final Guitar](./media/guitar_finalizada.jpeg)
 
 ## 📌 Overview
 This project documents my **very first experience in woodworking and guitar building (lutheria)**. Built entirely from scratch over the course of **one week**, this project was an experimental hands-on learning journey covering body shaping, neck crafting, shielding, and final setup.
